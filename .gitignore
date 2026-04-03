@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.vscode/
+t5_summarizer_model/
